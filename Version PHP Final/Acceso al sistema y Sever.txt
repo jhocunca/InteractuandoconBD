@@ -1,0 +1,10 @@
+Acceso al sistema web:
+usuario: jhonc@nextu.com
+clave: 123456
+
+MySQL esta sin clave:
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: "" 
+DB: "nextu"
+
